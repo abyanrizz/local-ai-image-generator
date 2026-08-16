@@ -82,7 +82,7 @@ The inference server used during development:
 
 The frontend/client development machine:
 
-- Apple Silicon MacBook
+- Apple A18 Pro (Macbook Neo)
 - macOS
 
 ## Project Structure
